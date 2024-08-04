@@ -1,0 +1,5 @@
+{"rule":"D_N","sentence":"^\\QJ'ai intégré l'équipe engineering de la business unit Mu-Test sous la responsabilité de l'engineering manager en tant qu'ingénieur software stagiaire.\\E$"}
+{"rule":"SOFTWARE","sentence":"^\\QJ'ai intégré l'équipe engineering de la business unit Mu-Test sous la responsabilité de l'engineering manager en tant qu'ingénieur software stagiaire.\\E$"}
+{"rule":"ETRE_VPPA_OU_ADJ","sentence":"^\\QUne variable d'environnement est stockée par le système d'exploitation est liée à un utilisateur, elles permettent de configurer des programmes sans modifier leurs codes sources.\\E$"}
+{"rule":"ETRE_VPPA_OU_ADJ","sentence":"^\\QPour éviter tout rique d'erreur lors de la lecture des dates depuis le XML le jour, le mois, l'année sont récupérés via un algorithme et non les fonctions excels pouvant créer des incohérences en fonction de la région du monde on se situe l'uilisateur.\\E$"}
+{"rule":"PREP_VERBECONJUGUE","sentence":"^\\QIl est important que l'ouverture d'un \"bug\" en dessous d'une story ajoute du travaille en série à celle-ci, celui-ci n'est pas compris dans les story points de la story parent.\\E$"}
